@@ -30,6 +30,32 @@
   Union type, literaal type, function type, unknown type, never type
   
 13 Jan ->
-  Continued Udemy Course,
-  Searched about different testing methods in different software testing Methodoligies
+  TypeScript - Watch Mode, 
+  Including Excluding Files, 
+  Setting Compilation Targer, 
+  Core Libs, 
+  Source Maps, 
+  Debugging with VS-Code, 
+  
+14 Jan ->
+  TypeScript - let and const, 
+  Arrow functions, 
+  Default parameters, 
+  Rest & Spread operator,
+  Array & Object Destructing,
+
+15 Jan ->
+  TypeScript - Classes, 
+  Constructors,
+  Access Modifiers,
+  Inheritance,
+  Overriding properties,
+  Getters & Setters,
+  Static methods & properties,
+  Abstract classes, singletons,
+  Interfaces,
+  Prepared ppt on static testing,
+  
+16 Jan ->
+  
   
