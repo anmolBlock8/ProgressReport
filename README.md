@@ -57,5 +57,14 @@
   Prepared ppt on static testing,
   
 16 Jan ->
+  Intersection Types,
+  Type Guards,
+  Discriminated Union,
+  Index properties,
   
-  
+17 Jan ->
+  Function overloading,
+  Optional Chaining,
+  Nullish Coalescing,
+  Generics,
+  Decorators
