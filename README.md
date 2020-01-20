@@ -71,3 +71,8 @@
   
 18 Jan ->
   TypeScript -> Build a Drag & Drop Project Project
+  
+20 Jan ->
+  TypeScript -> Continued with the project,
+  discussed doubt about project regarding Decorators with Lovepreet and Pulkit,
+  Test Scenario assignment by Malkit sir
