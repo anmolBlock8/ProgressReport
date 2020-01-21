@@ -81,4 +81,6 @@
   Penetration Testing, 
   SQL Injection,
   HTTP vs HTTPs main difference,
-  CrossSite Scripting
+  CrossSite Scripting,
+  Endurance, Portability, Baseline, Scalability testing,
+  Smoke testing vs sanity testing
