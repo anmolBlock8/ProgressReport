@@ -76,3 +76,9 @@
   TypeScript -> Continued with the project,
   discussed doubt about project regarding Decorators with Lovepreet and Pulkit,
   Test Scenario assignment by Malkit sir
+
+21 Jan ->
+  Penetration Testing, 
+  SQL Injection,
+  HTTP vs HTTPs main difference,
+  CrossSite Scripting
