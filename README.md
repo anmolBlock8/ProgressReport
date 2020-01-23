@@ -84,3 +84,10 @@
   CrossSite Scripting,
   Endurance, Portability, Baseline, Scalability testing,
   Smoke testing vs sanity testing
+  
+22 Jan ->
+  Studied about Google Drive API,
+  Downloading and uploading media in API,
+  Basic Introduction Of Postman,
+  searching of file in API
+  
