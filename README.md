@@ -91,3 +91,14 @@
   Basic Introduction Of Postman,
   searching of file in API
   
+23 Jan ->
+  Continued with APIs,
+  read about postman,
+  basic functionality of postman,
+  sent post requests on basic API
+ 
+24 Jan ->
+  Assign chapters to each QA from ISTQB Foundation level Syllabus,
+  started with Chapter - Static testing,
+  made test scenarios for Ravi's app
+  
