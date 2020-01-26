@@ -75,7 +75,7 @@
 20 Jan ->
   TypeScript -> Continued with the project,
   discussed doubt about project regarding Decorators with Lovepreet and Pulkit,
-  Test Scenario assignment by Malkit sir
+  Test Scenario assignment by Malkit,
 
 21 Jan ->
   Penetration Testing, 
@@ -83,22 +83,25 @@
   HTTP vs HTTPs main difference,
   CrossSite Scripting,
   Endurance, Portability, Baseline, Scalability testing,
-  Smoke testing vs sanity testing
+  Smoke testing vs sanity testing,
   
 22 Jan ->
   Studied about Google Drive API,
   Downloading and uploading media in API,
   Basic Introduction Of Postman,
-  searching of file in API
+  searching of file in API,
   
 23 Jan ->
   Continued with APIs,
   read about postman,
   basic functionality of postman,
-  sent post requests on basic API
+  sent post requests on basic API,
  
 24 Jan ->
   Assign chapters to each QA from ISTQB Foundation level Syllabus,
   started with Chapter - Static testing,
-  made test scenarios for Ravi's app
+  made test scenarios for Ravi's app,
   
+25 Jan ->
+  Continued with Chapter - Static Testing,
+  made test scenarios for Pallabi's assigned task
