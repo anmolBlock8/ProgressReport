@@ -105,3 +105,7 @@
 25 Jan ->
   Continued with Chapter - Static Testing,
   made test scenarios for Pallabi's assigned task
+
+27 Jan ->
+  Made Test Scenarios along with test case steps for Ravi's Book Catalog Project,
+  read fundamentals of testing chapter from ISTQB foundation level topics
