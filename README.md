@@ -113,4 +113,4 @@
 28 Jan ->
   Review meeting on test scenarios of Book Catalog project,
   Deepak assigns task for making test scenarios and cases,
-  requirement gathering and discussion on requirements
+  done with requirement gathering and discussion on requirements process for the task
