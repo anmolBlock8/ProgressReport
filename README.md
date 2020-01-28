@@ -109,3 +109,8 @@
 27 Jan ->
   Made Test Scenarios along with test case steps for Ravi's Book Catalog Project,
   read fundamentals of testing chapter from ISTQB foundation level topics
+  
+28 Jan ->
+  Review meeting on test scenarios of Book Catalog project,
+  Deepak assigns task for making test scenarios and cases,
+  requirement gathering and discussion on requirements
