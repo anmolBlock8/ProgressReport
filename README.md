@@ -114,3 +114,11 @@
   Review meeting on test scenarios of Book Catalog project,
   Deepak assigns task for making test scenarios and cases,
   done with requirement gathering and discussion on requirements process for the task
+  
+29 Jan ->
+  made use cases for vocabulary test application,
+  read fundamentals of testing,
+  
+30 Jan ->
+  made test scenarios for vocabulary test application,
+  read fundamentals of testing,
