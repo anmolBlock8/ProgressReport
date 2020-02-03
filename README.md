@@ -122,3 +122,8 @@
 30 Jan ->
   made test scenarios for vocabulary test application,
   read fundamentals of testing,
+
+3 Feb ->
+  made test case descpition for vocabulary test application,
+  assignment by Ankita of Standards followed in IT companies,
+  
