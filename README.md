@@ -127,3 +127,20 @@
   made test case descpition for vocabulary test application,
   assignment by Ankita of Standards followed in IT companies,
   
+5 Feb ->
+  started reading about blockchain,
+  structure of blockchain,
+  ethereum,
+  
+6 Feb ->
+  discussion about test cases for vocabulary test application,
+  requirements of LMS app by Gurinder Sir,
+
+7 Feb ->
+  API testing using Postman,
+  environments, 
+  workspaces,
+  global/environment variables,
+  API testing with CLI (newman),
+  
+  
