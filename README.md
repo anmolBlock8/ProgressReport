@@ -135,6 +135,7 @@
 6 Feb ->
   discussion about test cases for vocabulary test application,
   requirements of LMS app by Gurinder Sir,
+  had doubts in requirements,
 
 7 Feb ->
   API testing using Postman,
@@ -142,5 +143,8 @@
   workspaces,
   global/environment variables,
   API testing with CLI (newman),
+  wrote basic test case scripts for testing,
   
-  
+10 Feb ->
+  API testing using Jenkins,
+  problem in connecting environment with Jenkin solved by Abhilash sir,
