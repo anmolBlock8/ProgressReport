@@ -182,6 +182,7 @@
 19 Feb ->
   continued ppt on $EarnBack,
   meeting with client and investors for LMS app,
+  LMS retrospective,
   
 20 Feb ->
   meeting with client regarding use case requirements,
