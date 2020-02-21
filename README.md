@@ -148,3 +148,42 @@
 10 Feb ->
   API testing using Jenkins,
   problem in connecting environment with Jenkin solved by Abhilash sir,
+  
+11 Feb ->
+  Automation testing with postman,
+  Run pipeline on GitLab using git bash,
+  
+12 Feb ->
+  Discussed the doubts in requirements of LMS app,
+  started craeting wire frames for LMS app using draw.io,
+  
+13 Feb ->
+  discussion with client regarding changes in the wireframes,
+  discussion with ekam regarding project idea,
+  
+14 Feb ->
+  work on ppt for project idea - $EarnBack,
+  multiple meetings with client regarding design layouts,
+  
+16 Feb ->
+  improved wireframes for LMS app,
+  preparation for ppt of $EarnBack,
+  
+17 Feb ->
+  meeting with client for LMS app,
+  created use cases for LMS app,
+  made changes in wireframes,
+  
+18 Feb ->
+  made test scenarios and cases for first demo of LMS app,
+  test LMS application,
+  pre-demo of LMS app with client,
+  
+19 Feb ->
+  continued ppt on $EarnBack,
+  meeting with client and investors for LMS app,
+  
+20 Feb ->
+  meeting with client regarding use case requirements,
+  discussed the flow for next demo,
+  finalise ppt for $EarnBack,
