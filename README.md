@@ -188,3 +188,23 @@
   meeting with client regarding use case requirements,
   discussed the flow for next demo,
   finalise ppt for $EarnBack,
+  
+24 Feb ->
+  refined the layouts according to the updations by client,
+  created test cases and scenarios,
+  
+25 Feb ->
+  advance assertions in postman,
+  covers Chai Assertion Library,
+  learnt about fetching collection using API key and UID,
+  desig workflow with sahil for add employee page of LMS,
+  made task sheet for LMS application,
+  started working on front end testing for LMS,
+  
+26 Feb ->
+  continued with advance postman,
+  run pipeline on GitLab CI/CD,
+  read about docker files,
+  run requests with data sets,
+  made test cases for front end testing of LMS,
+  
