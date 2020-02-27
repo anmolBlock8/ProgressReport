@@ -208,3 +208,7 @@
   run requests with data sets,
   made test cases for front end testing of LMS,
   
+27 Feb ->
+  covers test cases and scenarios for front end testing,
+  had status check with client,
+  continued with advance postman,
