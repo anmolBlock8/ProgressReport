@@ -212,3 +212,21 @@
   covers test cases and scenarios for front end testing,
   had status check with client,
   continued with advance postman,
+  
+28 Feb ->
+  completed advance postman course,
+  tests front end part of LMS,
+  report bugs to the development team,
+  refine test cases and scenarios,
+  internal demo meeting with client,
+  
+2 March ->
+  started with test steps for the LMS,
+  test the changes made by development team in frontend,
+  internal demo withh client,
+  
+3 March ->
+  test the final flow according to the scope for demo,
+  demo of LMS with client, investors and technical team ,
+  test steps for LMS,
+  
