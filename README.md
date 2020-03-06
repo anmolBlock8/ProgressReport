@@ -230,3 +230,16 @@
   demo of LMS with client, investors and technical team ,
   test steps for LMS,
   
+4 March ->
+  refine test steps for LMS,
+  discussed about next scope for demo,
+  bug report discussion,
+  
+5 March ->
+  added more test scenarios for LMS,
+  made bug report for LMS,
+  discussed about UI changes,
+  
+6 March ->
+  discussed UI/UX doubts with Anuj sir,
+  start with new version for front end testcases,
